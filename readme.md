@@ -8,8 +8,6 @@ The template creates:
 •	RDS database, subnet group, security group
 •	Dynamo table: Employees
 •	Instance-role
-•	Check the output for a link to the zip we build, it will look like this: https://emp3-application.s3.amazonaws.com/corp-app.zip
-
 
 Create the RDS app
 ==================
